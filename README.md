@@ -18,10 +18,7 @@ My work bridges enterprise technology and practical business needs, from Microso
 - **Architecture:** Solution Design, Systems Integration, Digital Transformation
 
 
-
 ## Selected Projects
-
-
 
 **NawlniPOS — Retail Point of Sale System**\
 A Windows-based retail management solution supporting sales, inventory, customer accounts, payments, daily closing, and reporting.
@@ -34,6 +31,21 @@ An educational platform combining AI-assisted student assessment with human tuto
 
 **Enterprise Digital Transformation**\
 Microsoft 365, SharePoint, Power Platform, and workflow digitization initiatives designed to improve enterprise collaboration and operational efficiency.
+
+
+## Explore My Portfolio
+
+Explore my complete software engineering projects, enterprise solutions, technical architectures, and digital transformation case studies.
+
+
+### [View My IT Solutions Portfolio →](https://github.com/raboulhosn111/IT-Solutions-Portfolio)
+
+**Detailed Project Documentation:**
+
+- [NawlniPOS — Retail Point of Sale System](https://github.com/raboulhosn111/IT-Solutions-Portfolio/blob/main/projects/nawlni-pos.md)
+- [Generator Pro — Billing & Subscriber Management](https://github.com/raboulhosn111/IT-Solutions-Portfolio/blob/main/projects/generator-pro.md)
+- [DVISTAA Learn — AI-Enhanced Learning Platform](https://github.com/raboulhosn111/IT-Solutions-Portfolio/blob/main/projects/dvistaa-learn.md)
+- [Microsoft 365 & Power Platform — Enterprise Digital Transformation](https://github.com/raboulhosn111/IT-Solutions-Portfolio/blob/main/enterprise-solutions/microsoft-365-power-platform.md)
 
 
 
